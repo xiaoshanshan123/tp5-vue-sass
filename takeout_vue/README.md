@@ -1,6 +1,6 @@
-# vue_takeout
+# takout_vue
 
-> A Vue.js project
+> n
 
 ## Build Setup
 
