@@ -1,6 +1,6 @@
 <template>
 	<div class="layout">
-		<v-head :seller="seller"></v-head>
+		<v-head :seller="seller" v-if="seller"></v-head>
 	</div>
 </template>
 <script>
